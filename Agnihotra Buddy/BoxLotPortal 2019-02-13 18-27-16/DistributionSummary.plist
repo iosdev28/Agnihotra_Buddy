@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BoxLotPortal.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4CFC2A8156A3764479847C869B3A49F8E73F11D7</string>
+				<key>dateExpires</key>
+				<string>16/04/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4CFC2A8156A3764479847C869B3A49F8E73F11D7</string>
+						<key>dateExpires</key>
+						<string>16/04/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6V5TTCPVEW</string>
+						<key>name</key>
+						<string>The Bernstein Firm LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4CFC2A8156A3764479847C869B3A49F8E73F11D7</string>
+						<key>dateExpires</key>
+						<string>16/04/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>AlamofireImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6V5TTCPVEW</string>
+						<key>name</key>
+						<string>The Bernstein Firm LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4CFC2A8156A3764479847C869B3A49F8E73F11D7</string>
+						<key>dateExpires</key>
+						<string>16/04/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>DatePickerDialog.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6V5TTCPVEW</string>
+						<key>name</key>
+						<string>The Bernstein Firm LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4CFC2A8156A3764479847C869B3A49F8E73F11D7</string>
+						<key>dateExpires</key>
+						<string>16/04/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6V5TTCPVEW</string>
+						<key>name</key>
+						<string>The Bernstein Firm LLC</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6V5TTCPVEW.com.bernstein.far</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6V5TTCPVEW</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6V5TTCPVEW.com.bernstein.far</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>BoxLotPortal.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1ff358f1-1024-40e0-bdd2-1339b2ee2bad</string>
+				<key>name</key>
+				<string>FAR_DEV</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6V5TTCPVEW</string>
+				<key>name</key>
+				<string>The Bernstein Firm LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

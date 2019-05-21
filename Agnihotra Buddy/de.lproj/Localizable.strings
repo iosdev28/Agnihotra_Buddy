@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  Agnihotra Buddy
+
+  Created by Infoicon Technologies on 13/02/19.
+  Copyright © 2019 Infoicon Technologies. All rights reserved.
+*/
+
+"Delete this Location" = "Diesen Standort löschen";
+"Rename this Location" = "Benennen Sie diesen Ort um";
+"Delete this Location ?" = "Diesen Standort löschen?";
+"Enter new name for location" = "Geben Sie einen neuen Namen für den Standort ein";
+"Location Name" = "Standortnamen";
+"RENAME THIS LOCATION" = "Benennen Sie diesen Standort um";
+"Alarm set for" = "Alarm eingestellt für";
+"minutes before Agnihotra." =  "Minuten vor Agnihotra.";
+"NO" = "NEIN";
+
+"Location Not set,Click on Icon!" = "Standort nicht festgelegt, klicken Sie auf das Symbol!";
+"Agnihotra Buddy" = "Agnihotra-Buddy";
+"Delete All Location" = "Alle Standorte löschen";
+"Add Location" = "Standort hinzufügen";
+"Enter Manually" = "manuell eingeben";
+"Use Googlle Map" = "Google Maps verwenden";
+"Change TimeZone"  = "Zeitzone ändern";
+"Confirm" = "Bestätigen";
+"titleLabel" = "Bitte bestätigen Sie die Zeitzone für diesen Standort.";
+"CANCEL" = "Abbrechen";
+"YES" = "Ja";
+"Your Location" = "Ihr Standort";
+"Please confirm timezone for this location" = "Bitte bestätigen Sie die Zeitzone für diesen Standort.";
+
+"Settings" = "Einstellungen";
+"Contacts" = "Kontakte";
+"About" = "Über";
+"Privacy policy" = "Datenschutz";
+"Share" = "Teilen";
+"SELECT" = "Auswählen" ;
+"MAP VIEW" = "Kartenansicht";
+"Are You Sure You Wish To Delete All Location" = "Sind Sie sicher, dass Sie alle Orte löschen möchten?";
+"Cancel" = "Abbrechen";
+"Proceed" = "weiter";
+
+
+"Functional Shortcuts" = "Spezielle Tastenbelegungen";
+"Rename/Delete" = "umbenennen/löschen";
+"Location" = "Standort";
+//"Load Feature Timeing" = "Feature-Timing laden";
+"Long Press Location" = "Lange drücken Sie Position";
+"Icon" = "Symbol";
+//"Click on Date" = "Klicken Sie auf Datum";
+
+"Credits" = "Wir bedanken uns bei";
+"Maximilian Weber" = "Maximilian Weber";
+"Bruce johnson and Ulrich Berk" = "Bruce johnson and Ulrich Berk";
+"Entie Community at StackOverflow" = "Entie Community bei StackOverflow";
+"Courtsey" = "Courtsey: A2 Natürlich";
+"2004 Deustsche Gesellschaft f.Home-Thrape haldenhof, 78357 Muehhlingen" = "© 2004 Deutsche Gesellschaft für Homa-Therapie, Haldenhof, 78357 Mühlingen";
+
+
+"Home Location" = "Heimatstandort festlegen";
+"Loads on start up" = "Lädt bei der Inbetriebnahme";
+"CHANGE" = "ändern";
+
+
+"General" = "Allgemeines";
+"Screen Always on" = "Bildschirm immer eingeschaltet lassen";
+"Keeps screen awake while app is open" = "Bildschirm immer eingeschaltet lassen";
+"24 hour clock" = "24 Stunden";
+"Change Time Format to 12 or 24 hours" = "Zeitformat auf 12 oder 24 Stunden ändern";
+"Meditation Bell" = "Meditationsglocke";
+"Display countdown or clock in centre" = "Countdown oder Uhr in der Mitte anzeigen";
+"Display Countdown" = "Countdown anzeigen";
+"Agnihotra Alarm" = "Agnihotra-Alarm";
+"Set alarm to ring before agnihotra" =  "Stellen Sie den Alarm so ein daß er vor Agnihotra klingelt";
+"Location Not Set" = "Standort nicht festgelegt";
+
+"Manual Entry" = "Manuelle Eingabe";
+
+"Enter location below in Degrees using Standerd convention +ve for North/East and-ve for South/West" = "Geben Sie Ihren Standort an im Format Grad / Minuten / Sekunden (gg.mm.ss) Verwenden Sie ein vorgestelltes Minus-Zeichen (-) für südliche Breite sowie für westliche Länge.";
+
+"USE THIS LOCATION" = "DIESEN STANDORT NUTZEN";
+"SEE THIS LOCATION ON MAP" = "Diesen Standort auf der Karte zeigen";
+"Latitude" = "Länge";
+"Longitude" = "Breite";
+"please enter latitude" = "Bitte geben Sie den Breitengrad ein";
+"OK" = "OK";
+"Please enter longitude" = "Bitte Länge eingeben";
+
+"Invalid Value" = "ungültiger Wert";
+"Contact for more information" = "Kontakt für weitere Informationen";
+"SATELLITE" = "SATELLIT";
+"please Location First" = "bitte Standort zuerst";
+"Set Alarm Time" = "Weckzeit einstellen";
+"Save" = "Sparen";
+"Cancel" = "abbrechen";
+
+
+
+
+
+
+
+

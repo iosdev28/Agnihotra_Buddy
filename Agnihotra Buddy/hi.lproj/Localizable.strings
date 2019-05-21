@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  Agnihotra Buddy
+
+  Created by Infoicon Technologies on 13/02/19.
+  Copyright © 2019 Infoicon Technologies. All rights reserved.
+*/
+
+"Delete this Location" = "यह स्थान हटाएं";
+"Rename this Location" = "इस स्थान का नाम बदलें";
+"Delete this Location ?" = "यह स्थान हटाएं?";
+"Enter new name for location" = "स्थान के लिए नया नाम दर्ज करें";
+"Location Name" = "स्थान का नाम";
+"RENAME THIS LOCATION" = "इस स्थान का नाम बदलें";
+"Alarm set for" = "के लिए अलार्म सेट";
+"minutes before Agnihotra." =  "अग्निहोत्र से कुछ मिनट पहले।";
+"NO" = "नहीं";
+
+"Location Not set,Click on Icon!" = "स्थान सेट नहीं है, आइकन पर क्लिक करें!";
+"Agnihotra Buddy" = "अग्निहोत्र मित्र";
+"Delete All Location" = "सभी स्थान मिटायें";
+"Add Location" = "स्थान जोड़े";
+"Enter Manually" = "निर्देशांक डालें";
+"Use Googlle Map" = "Google मानचित्र का उपयोग करें";
+"Change TimeZone"  = "नहीं , मानक बदलें ";
+"Confirm" = "सही है ";
+"titleLabel" = "कृपया इस स्थान के लिए समय क्षेत्र की पुष्टि करें.";
+"CANCEL" = "नहीं";
+"YES" = "हाँ";
+"Please confirm timezone for this location" = "क्या इस स्थान का समय मानक सही है ?";
+
+"Settings" = "सेटिंग्स";
+"Contacts" = "संपर्क";
+"About" = "जानकारी";
+"Privacy policy" = "गोपनीयता नीति";
+"Share" = "शेयर";
+"SELECT" = "चुनें" ;
+"MAP VIEW" = "मानचित्र";
+"Are You Sure You Wish To Delete All Location" = "क्या आप सभी स्थानों को मिटाना चाहते है ?";
+"Cancel" = "नहीं";
+"Proceed" = "हाँ";
+
+
+"Functional Shortcuts" = "उपयोग कूंजी";
+"Rename/Delete" = "मिटाने या नाम बदलने के लिए";
+"Location" = "स्थान";
+"Load Feature Timeing" = "लोड सुविधा समय";
+"Long Press Location" = "लोकेशन आइकॉन को देर तक दबाएं";
+"Icon" = "चिह्न";
+"Click on Date" = "दिनांक पर क्लिक करें";
+
+"Credits" = "आभार";
+"Maximilian Weber" = "मैक्सिमिलियन वेबर";
+"Bruce johnson and Ulrich Berk" = "ब्रूस जॉनसन और उलरिच बर्क";
+"Entie Community at StackOverflow" = "StackOverflow में प्रवेश समुदाय";
+"Courtsey" = "के सौजन्य से";
+"2004 डेस्टशे गेसलस्चैफ्ट एफ.होम-थ्रैपे हेल्डेनहोफ़, 78357 म्यूहेलिंगेन" = " 2004 डेस्टशे गेसलस्चफ़्ट एफ। डोम-थ्रैप हेल्डेनहोफ़, 78357 म्यूहलिंगन";
+
+
+"Home Location" = "गृह स्थान";
+"Loads on start up" = "शुरुआत में लोड होगा";
+"CHANGE" = "बदलें";
+"General" = "सामान्य";
+"Screen Always on" = "स्क्रीन चालू रखें";
+"Keeps screen awake while app is open" = "एप खुला हो तब स्क्रीन सदैव चालू रखें";
+"24 hour clock" = "24 घंटे की घड़ी";
+"Change Time Format to 12 or 24 hours" = "घडी का प्रकार बदले - १२ या २४ घंटे";
+"Meditation Bell" = "घंटी बजाएं";
+"Display countdown or clock in centre" = "बीच में घडी या बाकि समय दिखाएँ";
+"Display Countdown" = "बाकि समय दर्शाए";
+"Agnihotra Alarm" = "अलार्म";
+"Set alarm to ring before agnihotra" = "अग्निहोत्र के पहले याद दिलाने के लिए";
+"Location Not Set" = "स्थान सेट नहीं है";
+
+"Manual Entry" = "निर्देशांक डालें";
+
+"Enter location below in Degrees using Standerd convention +ve for North/East and-ve for South/West" = "उत्तर / पूर्व के लिए स्टेंडरड कन्वेंशन + ve और दक्षिण / पश्चिम के लिए ve का उपयोग कर डिग्री में नीचे स्थान दर्ज करें";
+
+"USE THIS LOCATION" = "इस स्थान का चयन करें";
+"SEE THIS LOCATION ON MAP" = "इस स्थान को नक़्शे पर देखें";
+"Latitude" = "अक्षांश";
+"Longtitude" = "देशान्तर";
+"please enter latitude" = "कृपया अक्षांश दर्ज करें";
+"OK" = "ठीक";
+"Please enter longitude" = "कृपया देशांतर दर्ज करें";
+
+"Contact for more information" = "अधिक जानकारी के लिए संपर्क करें";
+"SATELLITE" = "उपग्रह";
+"please Location First" = "कृपया स्थान पहले";
+"Set Alarm Time" = "अलार्म टाइम सेट करें";
+"Save" = "सहेजें";
+"Cancel" = "रद्द करना";
+
+
+
+
+
+
+

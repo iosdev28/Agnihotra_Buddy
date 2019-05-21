@@ -1,0 +1,393 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1JL-jB-TmC"; */
+"1JL-jB-TmC.text" = "Label";
+
+/* Class = "UILabel"; text = "EUROPE\n"; ObjectID = "1zQ-ol-THy"; */
+"1zQ-ol-THy.text" = "EUROPE\n";
+
+/* Class = "UILabel"; text = "Screen Always on "; ObjectID = "24F-0a-cdk"; */
+"24F-0a-cdk.text" = "Screen Always on ";
+
+/* Class = "UILabel"; text = "http://www.agnihotra.com.au\n"; ObjectID = "2GL-NW-R2q"; */
+"2GL-NW-R2q.text" = "http://www.agnihotra.com.au\n";
+
+/* Class = "UILabel"; text = "Long Press Location"; ObjectID = "2ss-4G-hWP"; */
+"2ss-4G-hWP.text" = "Long Press Location";
+
+/* Class = "UILabel"; text = "Homa Therapy Goshala\n\n"; ObjectID = "3dU-0o-6ib"; */
+"3dU-0o-6ib.text" = "Homa Therapy Goshala\n\n";
+
+/* Class = "UILabel"; text = "Deutsche Gesellschaft für Homa-Therapie\n"; ObjectID = "3fH-15-40k"; */
+"3fH-15-40k.text" = "Deutsche Gesellschaft für Homa-Therapie\n";
+
+/* Class = "UILabel"; text = "Abel Hernandez & Aleta Macan\n\n"; ObjectID = "5Fj-UX-eQp"; */
+"5Fj-UX-eQp.text" = "Abel Hernandez & Aleta Macan\n\n";
+
+/* Class = "UILabel"; text = "Latitude:"; ObjectID = "6Ab-KF-1gs"; */
+"6Ab-KF-1gs.text" = "Latitude:";
+
+/* Class = "UIButton"; normalTitle = "USE THIS LOCATION "; ObjectID = "6xk-q6-FJ2"; */
+"6xk-q6-FJ2.normalTitle" = "USE THIS LOCATION ";
+
+/* Class = "UILabel"; text = "Sarvajit Paranjpe\n\n"; ObjectID = "7jW-Us-8uA"; */
+"7jW-Us-8uA.text" = "Sarvajit Paranjpe\n\n";
+
+/* Class = "UILabel"; text = "Frits & Lee Ringma"; ObjectID = "7wh-h1-ryU"; */
+"7wh-h1-ryU.text" = "Frits & Lee Ringma";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "8Xe-4U-hA2"; */
+"8Xe-4U-hA2.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "tapovan3@yahoo.com\n"; ObjectID = "9UR-Iw-Xb8"; */
+"9UR-Iw-Xb8.text" = "tapovan3@yahoo.com\n";
+
+/* Class = "UILabel"; text = "Dist: Jalgaon, Maharashtra, INDIA\n"; ObjectID = "A0c-kc-r3n"; */
+"A0c-kc-r3n.text" = "Dist: Jalgaon, Maharashtra, INDIA\n";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "AJJ-sQ-iq2"; */
+"AJJ-sQ-iq2.text" = "Agnihotra Buddy";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "Acb-UI-2aU"; */
+"Acb-UI-2aU.normalTitle" = "Settings";
+
+/* Class = "UILabel"; text = "Change Time Format to 12 or 24 hours"; ObjectID = "BXm-6X-vrW"; */
+"BXm-6X-vrW.text" = "Change Time Format to 12 or 24 hours";
+
+/* Class = "UILabel"; text = "USA\n"; ObjectID = "BiO-Yg-JuX"; */
+"BiO-Yg-JuX.text" = "USA\n";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "DSa-vb-OvS"; */
+"DSa-vb-OvS.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "Enter Manually"; ObjectID = "FBU-mP-IWa"; */
+"FBU-mP-IWa.normalTitle" = "Enter Manually";
+
+/* Class = "UILabel"; text = "Madison VA. 22727, USA\n"; ObjectID = "FCu-dp-RR2"; */
+"FCu-dp-RR2.text" = "Madison VA. 22727, USA\n";
+
+/* Class = "UILabel"; text = "AUSTRALASIA\n\n"; ObjectID = "Fqg-Wb-hFY"; */
+"Fqg-Wb-hFY.text" = "AUSTRALASIA\n\n";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "Fze-sF-Hhp"; */
+"Fze-sF-Hhp.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "Functional Shortcuts"; ObjectID = "G5D-oP-Nzh"; */
+"G5D-oP-Nzh.text" = "Functional Shortcuts";
+
+/* Class = "UILabel"; text = " dght@homatherapie.de\n"; ObjectID = "GH7-SC-mZJ"; */
+"GH7-SC-mZJ.text" = " dght@homatherapie.de\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GhH-4E-OHy"; */
+"GhH-4E-OHy.text" = "Label";
+
+/* Class = "UILabel"; text = "India standerd Time(Asia/Calcutta)"; ObjectID = "Ghe-Bz-BwM"; */
+"Ghe-Bz-BwM.text" = "India standerd Time(Asia/Calcutta)";
+
+/* Class = "UILabel"; text = "Load Feature Timeing"; ObjectID = "Gl1-4t-m9a"; */
+"Gl1-4t-m9a.text" = "Load Feature Timeing";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "Gnh-rI-Spt"; */
+"Gnh-rI-Spt.text" = "Latitude";
+
+/* Class = "UILabel"; text = "Fivefold Path Mission\n\n"; ObjectID = "H6R-0Y-yw9"; */
+"H6R-0Y-yw9.text" = "Fivefold Path Mission\n\n";
+
+/* Class = "UIButton"; normalTitle = "CHANGE TIMEZONE"; ObjectID = "IOv-CF-iuW"; */
+"IOv-CF-iuW.normalTitle" = "CHANGE TIMEZONE";
+
+/* Class = "UILabel"; text = "34-240 Jordanow, POLAND\n"; ObjectID = "IQV-Tg-ApO"; */
+"IQV-Tg-ApO.text" = "34-240 Jordanow, POLAND\n";
+
+/* Class = "UILabel"; text = "Maximilian Weber"; ObjectID = "IVd-JP-E4O"; */
+"IVd-JP-E4O.text" = "Maximilian Weber";
+
+/* Class = "UILabel"; text = "info@agnihotra.org\n"; ObjectID = "J5n-70-nRL"; */
+"J5n-70-nRL.text" = "info@agnihotra.org\n";
+
+/* Class = "UILabel"; text = "International Websites\n\n"; ObjectID = "JTU-na-ns4"; */
+"JTU-na-ns4.text" = "International Websites\n\n";
+
+/* Class = "UILabel"; text = "Home Location "; ObjectID = "Jfy-NO-Yd6"; */
+"Jfy-NO-Yd6.text" = "Home Location ";
+
+/* Class = "UILabel"; text = "Location not Set, Click on Icon!"; ObjectID = "K1C-Xp-0Sw"; */
+"K1C-Xp-0Sw.text" = "Location not Set, Click on Icon!";
+
+/* Class = "UILabel"; text = "Set Home Location"; ObjectID = "KTy-88-h5F"; */
+"KTy-88-h5F.text" = "Set Home Location";
+
+/* Class = "UILabel"; text = "Wysoka 151,\n"; ObjectID = "Kch-Hb-fXC"; */
+"Kch-Hb-fXC.text" = "Wysoka 151,\n";
+
+/* Class = "UILabel"; text = "omshreedham@agnihotra.com.au\n"; ObjectID = "Klx-dN-Err"; */
+"Klx-dN-Err.text" = "omshreedham@agnihotra.com.au\n";
+
+/* Class = "UILabel"; text = "40 Ashoknagar\n\n"; ObjectID = "KnZ-wU-dCZ"; */
+"KnZ-wU-dCZ.text" = "40 Ashoknagar\n\n";
+
+/* Class = "UILabel"; text = "5:27:22 PM"; ObjectID = "LUK-M2-djN"; */
+"LUK-M2-djN.text" = "5:27:22 PM";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "MbS-Rm-Up4"; */
+"MbS-Rm-Up4.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "(information about Homa Therapy in German, English, Spanish, Danish, Swedish, Russian, Romanian; other languages are in preparation.)\n"; ObjectID = "NCK-qn-0MX"; */
+"NCK-qn-0MX.text" = "(information about Homa Therapy in German, English, Spanish, Danish, Swedish, Russian, Romanian; other languages are in preparation.)\n";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "NHw-ke-owu"; */
+"NHw-ke-owu.text" = "Agnihotra Buddy";
+
+/* Class = "UIButton"; normalTitle = "SELECT"; ObjectID = "Ndr-f9-JdQ"; */
+"Ndr-f9-JdQ.normalTitle" = "SELECT";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "ODm-Su-pco"; */
+"ODm-Su-pco.normalTitle" = "About";
+
+/* Class = "UILabel"; text = "Display Countdown"; ObjectID = "ONt-ei-woP"; */
+"ONt-ei-woP.text" = "Display Countdown";
+
+/* Class = "UILabel"; text = "Meditation Bell"; ObjectID = "OuL-vs-S6l"; */
+"OuL-vs-S6l.text" = "Meditation Bell";
+
+/* Class = "UILabel"; text = "http://www.agnihotra.org\n"; ObjectID = "QJy-3f-s1f"; */
+"QJy-3f-s1f.text" = "http://www.agnihotra.org\n";
+
+/* Class = "UILabel"; text = "Petergasse 2\n"; ObjectID = "Qwh-Iu-doA"; */
+"Qwh-Iu-doA.text" = "Petergasse 2\n";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "RVR-aw-3Y7"; */
+"RVR-aw-3Y7.text" = "Agnihotra Buddy";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "Rts-MD-uwC"; */
+"Rts-MD-uwC.text" = "Longitude";
+
+/* Class = "UILabel"; text = "Longtitude:"; ObjectID = "RuS-Q7-ZPU"; */
+"RuS-Q7-ZPU.text" = "Longtitude:";
+
+/* Class = "UILabel"; text = "278 N. White Oak Dr.\n"; ObjectID = "SuA-ee-eYh"; */
+"SuA-ee-eYh.text" = "278 N. White Oak Dr.\n";
+
+/* Class = "UILabel"; text = "terapiahoma@yahoo.com"; ObjectID = "UXc-fG-DC1"; */
+"UXc-fG-DC1.text" = "terapiahoma@yahoo.com";
+
+/* Class = "UILabel"; text = "http://www.fivefoldpathmission.org\n"; ObjectID = "Unw-1p-geb"; */
+"Unw-1p-geb.text" = "http://www.fivefoldpathmission.org\n";
+
+/* Class = "UILabel"; text = " Courtsey: A2 Naturrals"; ObjectID = "Uqr-kL-Fm4"; */
+"Uqr-kL-Fm4.text" = " Courtsey: A2 Naturrals";
+
+/* Class = "UILabel"; text = "www.homatherapy.org\n\n"; ObjectID = "UuY-9g-mEJ"; */
+"UuY-9g-mEJ.text" = "www.homatherapy.org\n\n";
+
+/* Class = "UILabel"; text = "Agnihotra Alarm"; ObjectID = "UzZ-8n-Uk3"; */
+"UzZ-8n-Uk3.text" = "Agnihotra Alarm";
+
+/* Class = "UILabel"; text = "Om Shree Dham\n"; ObjectID = "Vud-KG-qHp"; */
+"Vud-KG-qHp.text" = "Om Shree Dham\n";
+
+/* Class = "UILabel"; text = "P.O. Box 68 Cessnock, NSW 2325, AUSTRALIA\n"; ObjectID = "Vun-QP-1BZ"; */
+"Vun-QP-1BZ.text" = "P.O. Box 68 Cessnock, NSW 2325, AUSTRALIA\n";
+
+/* Class = "UILabel"; text = "www.homafarming.com\n"; ObjectID = "XFz-nZ-QF1"; */
+"XFz-nZ-QF1.text" = "www.homafarming.com\n";
+
+/* Class = "UILabel"; text = "D-78345 Moos-Bankholzen / Bodensee, GERMANY\n"; ObjectID = "XH8-v6-rXC"; */
+"XH8-v6-rXC.text" = "D-78345 Moos-Bankholzen / Bodensee, GERMANY\n";
+
+/* Class = "UILabel"; text = "Credits"; ObjectID = "XOG-12-bj2"; */
+"XOG-12-bj2.text" = "Credits";
+
+/* Class = "UILabel"; text = "Bruce Johnson & Anne Godfrey\n"; ObjectID = "Y0Q-5S-mMZ"; */
+"Y0Q-5S-mMZ.text" = "Bruce Johnson & Anne Godfrey\n";
+
+/* Class = "UILabel"; text = "Fundacja Terapia Homa\n"; ObjectID = "ZA7-qL-Yz8"; */
+"ZA7-qL-Yz8.text" = "Fundacja Terapia Homa\n";
+
+/* Class = "UILabel"; text = "Display countdown or clock in centre"; ObjectID = "Zfq-pG-PWI"; */
+"Zfq-pG-PWI.text" = "Display countdown or clock in centre";
+
+/* Class = "UILabel"; text = "Contact for more information"; ObjectID = "Zlo-sN-dJ3"; */
+"Zlo-sN-dJ3.text" = "Contact for more information";
+
+/* Class = "UIButton"; normalTitle = "SEE THIS LOCATION ON MAP"; ObjectID = "ajU-3Z-lMT"; */
+"ajU-3Z-lMT.normalTitle" = "SEE THIS LOCATION ON MAP";
+
+/* Class = "UILabel"; text = "Set alarm to ring before agnihotra"; ObjectID = "ayK-dG-IKP"; */
+"ayK-dG-IKP.text" = "Set alarm to ring before agnihotra";
+
+/* Class = "UILabel"; text = "Manual Entry"; ObjectID = "b5N-Vj-oan"; */
+"b5N-Vj-oan.text" = "Manual Entry";
+
+/* Class = "UILabel"; text = "Richard & Lisa Powers\n\n"; ObjectID = "bgJ-CH-As0"; */
+"bgJ-CH-As0.text" = "Richard & Lisa Powers\n\n";
+
+/* Class = "UILabel"; text = "Dr. Ulrich Berk, President\n"; ObjectID = "bkW-WK-Mcr"; */
+"bkW-WK-Mcr.text" = "Dr. Ulrich Berk, President\n";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "bps-1H-5lC"; */
+"bps-1H-5lC.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "http://www.homatherapyindia.com\n"; ObjectID = "cf3-wS-Rn5"; */
+"cf3-wS-Rn5.text" = "http://www.homatherapyindia.com\n";
+
+/* Class = "UILabel"; text = "Entie Community at StackOverflow"; ObjectID = "cza-Ss-1nB"; */
+"cza-Ss-1nB.text" = "Entie Community at StackOverflow";
+
+/* Class = "UIButton"; normalTitle = "www.homatherapy.org\n"; ObjectID = "d6d-pP-F8d"; */
+"d6d-pP-F8d.normalTitle" = "www.homatherapy.org\n";
+
+/* Class = "UILabel"; text = "Jarek & Parvati Bizberg\n"; ObjectID = "dFy-rO-Kwo"; */
+"dFy-rO-Kwo.text" = "Jarek & Parvati Bizberg\n";
+
+/* Class = "UILabel"; text = "Display countdown or clock in centre"; ObjectID = "dP2-xS-1cj"; */
+"dP2-xS-1cj.text" = "Display countdown or clock in centre";
+
+/* Class = "UILabel"; text = "agnihomainfo@yahoo.co.in \n"; ObjectID = "eAD-1t-KO4"; */
+"eAD-1t-KO4.text" = "agnihomainfo@yahoo.co.in \n";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "ej4-Ix-crZ"; */
+"ej4-Ix-crZ.text" = "Location";
+
+/* Class = "UILabel"; text = "fivefoldpath@gmail.com \n"; ObjectID = "f3I-qb-ti5"; */
+"f3I-qb-ti5.text" = "fivefoldpath@gmail.com \n";
+
+/* Class = "UIButton"; normalTitle = "MAP VIEW"; ObjectID = "fSQ-6k-Ndn"; */
+"fSQ-6k-Ndn.normalTitle" = "MAP VIEW";
+
+/* Class = "UILabel"; text = "Homa Therapy Association of Australia\n\n"; ObjectID = "gIO-Tq-9b0"; */
+"gIO-Tq-9b0.text" = "Homa Therapy Association of Australia\n\n";
+
+/* Class = "UILabel"; text = "Loads on start up"; ObjectID = "gSK-1C-atC"; */
+"gSK-1C-atC.text" = "Loads on start up";
+
+/* Class = "UILabel"; text = "Please Confirm timezone for this location"; ObjectID = "gT8-WN-cAD"; */
+"gT8-WN-cAD.text" = "Please Confirm timezone for this location";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "glX-DK-BNl"; */
+"glX-DK-BNl.normalTitle" = "YES";
+
+/* Class = "UILabel"; text = "Keeps screen awake while app is open "; ObjectID = "gqp-uv-hyI"; */
+"gqp-uv-hyI.text" = "Keeps screen awake while app is open ";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "hEi-AC-6aG"; */
+"hEi-AC-6aG.normalTitle" = "CHANGE";
+
+/* Class = "UILabel"; text = "Bruce johnson and Ulrich Berk"; ObjectID = "hSe-ra-FRa"; */
+"hSe-ra-FRa.text" = "Bruce johnson and Ulrich Berk";
+
+/* Class = "UILabel"; text = "www.homahealth.com\n"; ObjectID = "hg1-1E-kxw"; */
+"hg1-1E-kxw.text" = "www.homahealth.com\n";
+
+/* Class = "UILabel"; text = "Madhya Pradesh, INDIA\n"; ObjectID = "iYv-cN-fQt"; */
+"iYv-cN-fQt.text" = "Madhya Pradesh, INDIA\n";
+
+/* Class = "UILabel"; text = "PO Ratnapimpri, Tal: Parola,\n"; ObjectID = "iu2-Ls-9Bg"; */
+"iu2-Ls-9Bg.text" = "PO Ratnapimpri, Tal: Parola,\n";
+
+/* Class = "UILabel"; text = "Wysoka 151,\n"; ObjectID = "iw8-dZ-Uhk"; */
+"iw8-dZ-Uhk.text" = "Wysoka 151,\n";
+
+/* Class = "UILabel"; text = "Confirm TimeZone For Location"; ObjectID = "j4M-al-XRB"; */
+"j4M-al-XRB.text" = "Confirm TimeZone For Location";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "j8C-u5-U2s"; */
+"j8C-u5-U2s.text" = "Agnihotra Buddy";
+
+/* Class = "UILabel"; text = "Icon"; ObjectID = "jfK-9a-Vwu"; */
+"jfK-9a-Vwu.text" = "Icon";
+
+/* Class = "UILabel"; text = "info@homatherapypoland.org\n"; ObjectID = "kr8-IE-NGU"; */
+"kr8-IE-NGU.text" = "info@homatherapypoland.org\n";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "l1K-lD-cIb"; */
+"l1K-lD-cIb.text" = "Location";
+
+/* Class = "UILabel"; text = "http://www.homa1.com\n"; ObjectID = "lFd-cT-8Kb"; */
+"lFd-cT-8Kb.text" = "http://www.homa1.com\n";
+
+/* Class = "UILabel"; text = "http://www.homatherapypoland.org (English & Polish)\n"; ObjectID = "lgN-p6-wmM"; */
+"lgN-p6-wmM.text" = "http://www.homatherapypoland.org (English & Polish)\n";
+
+/* Class = "UILabel"; text = "Haldenhof D-78357 MÜHLINGEN, GERMANY\n"; ObjectID = "lv3-GC-F86"; */
+"lv3-GC-F86.text" = "Haldenhof D-78357 MÜHLINGEN, GERMANY\n";
+
+/* Class = "UILabel"; text = " monika-koch@t-online.de\n"; ObjectID = "nRL-Bo-uti"; */
+"nRL-Bo-uti.text" = " monika-koch@t-online.de\n";
+
+/* Class = "UILabel"; text = "Peru, SOUTH AMERICA\n"; ObjectID = "nzi-ly-ihE"; */
+"nzi-ly-ihE.text" = "Peru, SOUTH AMERICA\n";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "oCa-vb-nmv"; */
+"oCa-vb-nmv.text" = "Agnihotra Buddy";
+
+/* Class = "UILabel"; text = "Teh: Maheshwar, Dist: Khargone,\n"; ObjectID = "oXn-sw-0dg"; */
+"oXn-sw-0dg.text" = "Teh: Maheshwar, Dist: Khargone,\n";
+
+/* Class = "UILabel"; text = "24 hour clock"; ObjectID = "ob7-SZ-PHy"; */
+"ob7-SZ-PHy.text" = "24 hour clock";
+
+/* Class = "UILabel"; text = "2004 Deustsche Gesellschaft f.Homa-Thrape haldenhof,,78357 Muehhlingen"; ObjectID = "otM-cD-Vhf"; */
+"otM-cD-Vhf.text" = "2004 Deustsche Gesellschaft f.Homa-Thrape haldenhof,,78357 Muehhlingen";
+
+/* Class = "UILabel"; text = " © 2004 Deutsche Gesellschaft f.Homa-Therapie,                                    Haldenhof,78357 Muehlingen"; ObjectID = "pG4-JS-ggj"; */
+"pG4-JS-ggj.text" = " © 2004 Deutsche Gesellschaft f.Homa-Therapie,                                    Haldenhof,78357 Muehlingen";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "pSM-2D-Fy7"; */
+"pSM-2D-Fy7.normalTitle" = "CONFIRM";
+
+/* Class = "UILabel"; text = "http://www.homatherapypoland.org (English & Polish)\n"; ObjectID = "pom-kt-duc"; */
+"pom-kt-duc.text" = "http://www.homatherapypoland.org (English & Polish)\n";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "qOm-d4-2Gl"; */
+"qOm-d4-2Gl.text" = "General";
+
+/* Class = "UILabel"; text = "Tapovan\n\n"; ObjectID = "qQE-CJ-xXK"; */
+"qQE-CJ-xXK.text" = "Tapovan\n\n";
+
+/* Class = "UILabel"; text = "Dhule 424001, Maharashtra, INDIA\n"; ObjectID = "r1b-0P-Y3J"; */
+"r1b-0P-Y3J.text" = "Dhule 424001, Maharashtra, INDIA\n";
+
+/* Class = "UILabel"; text = "Agnihotra Buddy"; ObjectID = "r4C-OI-2Xw"; */
+"r4C-OI-2Xw.text" = "Agnihotra Buddy";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "rNm-XR-CmD"; */
+"rNm-XR-CmD.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "7:15:55 AM"; ObjectID = "rgQ-r5-QDl"; */
+"rgQ-r5-QDl.text" = "7:15:55 AM";
+
+/* Class = "UILabel"; text = "Location Not Set"; ObjectID = "rts-Cg-kuy"; */
+"rts-Cg-kuy.text" = "Location Not Set";
+
+/* Class = "UILabel"; text = "INDIA\n"; ObjectID = "sLf-lw-3lw"; */
+"sLf-lw-3lw.text" = "INDIA\n";
+
+/* Class = "UILabel"; text = "http://www.homatherapie.de"; ObjectID = "sgH-3w-9kh"; */
+"sgH-3w-9kh.text" = "http://www.homatherapie.de";
+
+/* Class = "UIButton"; normalTitle = "Use Google Map"; ObjectID = "tMw-Bx-XKS"; */
+"tMw-Bx-XKS.normalTitle" = "Use Google Map";
+
+/* Class = "UILabel"; text = "SOUTH AMERICA\n\n"; ObjectID = "tbW-4S-5bp"; */
+"tbW-4S-5bp.text" = "SOUTH AMERICA\n\n";
+
+/* Class = "UILabel"; text = "Ladvi, P.O. Mandleshwar-451 221\n"; ObjectID = "uOe-9F-Rlu"; */
+"uOe-9F-Rlu.text" = "Ladvi, P.O. Mandleshwar-451 221\n";
+
+/* Class = "UILabel"; text = "Enter Location below in Degrees using Standerd  convention                                                            (+ve for North/East and -ve for South/West"; ObjectID = "veI-oL-YSg"; */
+"veI-oL-YSg.text" = "Enter Location below in Degrees using Standerd  convention                                                            (+ve for North/East and -ve for South/West";
+
+/* Class = "UILabel"; text = "Monika Koch\n"; ObjectID = "w8Y-14-Goo"; */
+"w8Y-14-Goo.text" = "Monika Koch\n";
+
+/* Class = "UILabel"; text = "Fivefold Path, Inc.\n"; ObjectID = "wBF-V9-T2e"; */
+"wBF-V9-T2e.text" = "Fivefold Path, Inc.\n";
+
+/* Class = "UIButton"; normalTitle = "Contacts"; ObjectID = "wW7-r0-57f"; */
+"wW7-r0-57f.normalTitle" = "Contacts";
+
+/* Class = "UILabel"; text = "Rename/Delete"; ObjectID = "xAY-84-kKx"; */
+"xAY-84-kKx.text" = "Rename/Delete";
+
+/* Class = "UILabel"; text = "Click On Date"; ObjectID = "xei-hr-T88"; */
+"xei-hr-T88.text" = "Click On Date";

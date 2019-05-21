@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  Agnihotra Buddy
+
+  Created by Infoicon Technologies on 13/02/19.
+  Copyright © 2019 Infoicon Technologies. All rights reserved.
+*/
+"Delete this Location" = "Delete this Location";
+"Rename this Location" = "Rename this Location";
+"Delete this Location ?" = "Delete this Location ?";
+"Enter new name for location" = "Enter new name for location";
+"Location Name" = "Location Name";
+"RENAME THIS LOCATION" = "RENAME THIS LOCATION";
+"Alarm set for" = "Alarm set for";
+"minutes before Agnihotra." =  "minutes before Agnihotra.";
+"NO" = "NO";
+
+"Location Not set,Click on Icon!" = "Location Not set,Click on Icon!";
+"Agnihotra Buddy" = "Agnihotra Buddy";
+"Delete All Location" = "Delete All Location";
+"Add Location" = "Add Location";
+"Enter Manually" = "Enter Manually";
+"Use Googlle Map" = "Use Google Map";
+"Change TimeZone"  = "CHANGE TIMEZONE";
+"Confirm" = "CONFIRM";
+"titleLabel" = "Please Confirm timezone for this location";
+"CANCEL" = "CANCEL";
+"YES" = "YES";
+"Please confirm timezone for this location" = "Please confirm timezone for this location.";
+"Settings" = "Settings";
+"Contacts" = "Contacts";
+"About" = "About";
+"Privacy policy" = "Privacy policy";
+"Share" = "Share";
+"SELECT" = "SELECT" ;
+"MAP VIEW" = "MAP VIEW";
+"Are You Sure You Wish To Delete All Location" = "Are You Sure You Wish To Delete All Location";
+"Cancel" = "Cancel";
+"Proceed" = "Proceed";
+
+"Functional Shortcuts" = "Functional Shortcuts";
+"Rename/Delete" = "Rename/Delete";
+"Location" = "Location";
+"Load Feature Timeing" = "Load Feature Timing";
+"Long Press Location" = "Long Press Location";
+"Icon" = "Icon";
+"Click on Dtae" = "Click on Dtae";
+
+"Credits" = "Credits";
+"Maximilian Weber" = "Maximilian Weber";
+"Bruce johnson and Ulrich Berk" = "Bruce johnson and Ulrich Berk";
+"Entie Community at StackOverflow" = "Entire Community at StackOverflow";
+"Courtsey" = "Courtsey: A2 Natural";
+
+"2004 Deustsche Gesellschaft f.Home-Thrape haldenhof, 78357 Muehhlingen" = "@ Deustsche Gesellschaft f.Home-Thrape haldenhof, 78357 Muehhlingen";
+
+"Home Location" = "Home Location";
+"Loads on start up" = "Loads on start up";
+"CHANGE" = "CHANGE";
+"General" = "General";
+"Screen Always on" = "Screen Always on";
+"Keeps screen awake while app is open" = "Keeps screen awake while app is open";
+"24 hour clock" = "24 hour clock";
+"Change Time Format to 12 or 24 hours" = "Change Time Format to 12 or 24 hours";
+"Meditation Bell" = "Meditation Bell";
+"Display countdown or clock in centre" = "Display countdown or clock in centre";
+"Display Countdown" = "Display Countdown";
+"Agnihotra Alarm" = "Agnihotra Alarm";
+"Set alarm to ring before agnihotra" =  "Set alarm to ring before agnihotra";
+"Location Not Set" = "Location Not Set";
+
+"Manual Entry" = "Manual Entry";
+
+"Enter location below in Degrees using Standerd convention +ve for North/East and-ve for South/West" = "Enter location below in Degrees using Standerd convention +ve for North/East and-ve for South/West";
+
+"USE THIS LOCATION" = "USE THIS LOCATION";
+"SEE THIS LOCATION ON MAP" = "SEE THIS LOCATION ON MAP";
+"Latitude" = "Latitude";
+"Longtitude" = "Longtitude";
+
+"please enter latitude" = "please enter latitude";
+"OK" = "OK";
+"Please enter longitude" = "Please enter longitude";
+
+"Contact for more information" = "Contact for more information";
+"SATELLITE" = "SATELLITE";
+"please Location First" = "please Location First";
+"Set Alarm Time" = "Set Alarm Time";
+"Save" = "Save";
+"Cancel" = "Cancel";
+
+
+
+
+
+
+
+
+
+

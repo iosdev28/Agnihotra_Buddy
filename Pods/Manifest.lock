@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - DatePickerDialog (2.0)
+  - Fabric (1.9.0)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlacePicker (3.0.3):
+    - GoogleMaps (= 3.0.3)
+    - GooglePlaces (= 3.0.3)
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - IQKeyboardManagerSwift (6.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Crashlytics
+  - DatePickerDialog
+  - Fabric
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Crashlytics
+    - DatePickerDialog
+    - Fabric
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlacePicker: 0c90898945f02ef36cce86fc9a107e1c5d3d26b1
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+
+PODFILE CHECKSUM: a5a2aaecee62f393222595ad775179084593b93f
+
+COCOAPODS: 1.6.1

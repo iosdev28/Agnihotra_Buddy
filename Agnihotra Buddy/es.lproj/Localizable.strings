@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  Agnihotra Buddy
+
+  Created by Infoicon Technologies on 13/02/19.
+  Copyright © 2019 Infoicon Technologies. All rights reserved.
+*/
+
+"Delete this Location" = "Eliminar esta ubicación";
+"Rename this Location" = "Renombrar esta ubicación";
+"Delete this Location ?" = "¿Eliminar esta ubicación?";
+"Enter new name for location" = "Ingrese un nuevo nombre para la ubicación";
+"Location Name" = "Nombre del lugar";
+"RENAME THIS LOCATION" = "Renombra esta ubicación";
+"Alarm set for" = "Alarma para";
+"minutes before Agnihotra." =  "Minutos antes del agnihotra.";
+"NO" = "NO";
+
+"Location Not set,Click on Icon!" = "Ubicación no establecida, haga clic en el icono!";
+"Agnihotra Buddy" = "Agnihotra Buddy";
+"Delete All Location" = "Alle Standorte löschen";
+"Add Location" = "Standort hinzufügen";
+"Enter Manually" = "Bitte manuell eingeben";
+"Use Googlle Map" = "Usa Google Map";
+"Change TimeZone"  = "Zeitzone ändern";
+"Confirm" = "Bestätigen";
+"titleLabel" = "Por favor, confirme la zona horaria para esta ubicación.";
+"CANCEL" = "Cancelar";
+"YES" = "Sí";
+"Please confirm timezone for this location" = "Favor confirmar la zona horaria para esta ubicación";
+"Settings" = "Configuración";
+"Contacts" = "Contactos";
+"About" = "Acerca de";
+"Privacy policy" = "Política de privacidad";
+"Share" = "Compartir";
+"SELECT" = "SELECCIONAR" ;
+"MAP VIEW" = "VISTA DEL MAPA";
+"Are You Sure You Wish To Delete All Location" = "¿Está seguro de que desea eliminar toda la ubicación";
+"Cancel" = "Cancelar";
+"Proceed" = "Proceder";
+"Functional Shortcuts" = "Accesos directos funcionales";
+"Rename/Delete" = "Renombrar / Eliminar";
+"Location" = "Ubicación";
+"Load Feature Timeing" = "Tiempo de carga de la característica";
+"Long Press Location" = "Ubicación de la prensa larga";
+"Icon" = "Icono";
+"Click on Date" = "Haga clic en fecha";
+"Credits" = "Creditos";
+"Maximilian Weber" = "Maximilian Weber";
+"Bruce johnson and Ulrich Berk" = "Bruce johnson and Ulrich Berk";
+"Entie Community at StackOverflow" = "Entie Community bei StackOverflow";
+"Courtsey" = "Courtsey: A2 Natürlich";
+"2004 Deustsche Gesellschaft f.Home-Thrape haldenhof, 78357 Muehhlingen" = "2004 Deustsche Gesellschaft f.Home-Thrape haldenhof, 78357 Muehhlingen";
+"Home Location" = "Localización de la casa";
+"Loads on start up" = "Cargas en el arranque";
+"CHANGE" = "CAMBIO";
+"General" = "Allgemeines";
+"Screen Always on" = "Pantalla siempre encendida";
+"Keeps screen awake while app is open" = "Mantiene la pantalla activa mientras la aplicación está abierta";
+"Change Time Format to 12 or 24 hours" = "Cambiar el formato de hora a 12 o 24 horas";
+"Meditation Bell" = "Campana de meditacion";
+"Display countdown or clock in centre" = "Mostrar cuenta atrás o reloj en el centro";
+"Display Countdown" = "Mostrar cuenta regresiva";
+"Agnihotra Alarm" = "Alarma de Agnihotra";
+"Set alarm to ring before agnihotra" =  "Pon la alarma a sonar antes de agnihotra";
+"Location Not Set" = "Ubicación no establecida";
+"Manual Entry" = "Entrada manual";
+"Enter location below in Degrees using Standerd convention +ve for North/East and-ve for South/West" = "Ingrese la ubicación abajo en Grados usando la convención Standerd + ve para Norte / Este y-ve para Sur / Oeste";
+"USE THIS LOCATION" = "Usa esta ubicación";
+"SEE THIS LOCATION ON MAP" = "VER ESTA UBICACIÓN EN EL MAPA";
+"Latitude" = "Latitud";
+"Longtitude" = "Längengrad";
+"please enter latitude" = "por favor ingresa latitud";
+"OK" = "DE ACUERDO";
+"Please enter longitude" = "Por favor ingrese longitud";
+"Contact for more information" = "Por favor ingrese longitudeContact para más información";
+"SATELLITE" = "SATÉLITE";
+"please Location First" = "por favor ubicación primero";
+"Set Alarm Time" = "Establecer hora de alarma";
+"Save" = "Salvar";
+"Cancel" = "Cancelar";
+
+
+
+
+
+
+
